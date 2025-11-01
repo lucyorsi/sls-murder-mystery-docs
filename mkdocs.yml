@@ -1,0 +1,32 @@
+
+site_name: The Seventh Bazaar
+site_url: https://example.com/
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.tracking
+    - search.suggest
+    - search.highlight
+    - toc.follow
+    - content.code.copy
+  palette:
+    - scheme: slate
+      primary: deep purple
+      accent: purple
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+      toc_depth: 2
+nav:
+  - Welcome: index.md
+  - Timeline: timeline.md
+  - How to Play: rules.md
+  - Fights & Rewards: fights.md
+  - Store & Potions: store.md
+  - Voting & Winning: voting.md
+  - FAQ: faq.md
+extra:
+  generator: false
