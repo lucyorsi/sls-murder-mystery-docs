@@ -1,7 +1,6 @@
-
 # Store & Potions
 
-Spend your **gold** (chocolate coins — **do not eat the gold**):
+Spend your **gold** (chocolate coins — **do not eat the gold**) by finding the Green Merchant.
 
 - **1 vote** — **2 gold**
 - **Blood Potion** — **1 gold**
@@ -10,6 +9,7 @@ Spend your **gold** (chocolate coins — **do not eat the gold**):
 - **Ghost in a Jar** — **8 gold**
 
 ## Potions (one‑use; **hosts only**)
+
 - **Blood Potion** — Heal **3**.
 - **Energy Potion** — **Draw 2** and **play +1** card this turn.
 - **Fire Potion** — Deal **2** damage.

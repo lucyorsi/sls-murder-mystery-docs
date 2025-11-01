@@ -15,7 +15,7 @@ Fights start only **after 9:00 PM**.
 3. **Reveal & Resolve (simultaneous):**
    - Flip both players’ cards; apply all text.
    - **Damage you take** = (damage dealt to you) − (your total block this turn).
-   - **Potions** (**hosts only**) can be taken at any point in the turn; they resolve with the cards.
+   - **Potions** (**for use against hosts only**) can be taken at any point in the turn; all final effects resolve with the cards.
 4. **Reset:** Discard your entire hand and the 2 played cards, then **draw 3**.
    - If your draw pile is empty, shuffle your discard to form a new draw pile.
 

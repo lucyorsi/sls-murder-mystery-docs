@@ -1,21 +1,40 @@
-
 # How to Play
 
-This game is **optional** — join when you like. If you're not playing, please enjoy the party!
+You start with **5 voting tokens** (magic beans), **8 cards**, and **2 gold** (chocolate coins — **don’t eat the gold**).
 
-## Starting Pack
-- **5 voting tokens** (lima beans)
-- **8 cards** (your guest deck — used after 9:00 PM)
-- **2 gold** (chocolate coins — **please don’t eat the gold**)
+## The Flow of the Night
 
-## Objective
-By **11:00 PM**, you want your votes to be on the **real murderer**.
+- **8:00 PM →** The Bazaar opens. **No fighting yet**, but you can already:
 
-## Casting Votes
-1. Write your initials on a lima bean.
-2. Drop it into any suspect’s jar.
-3. You can split your votes however you like.
-4. **All votes must be cast by 10:45 PM.**
+  - **Visit the Store** (buy potions or even **extra votes**),
+  - **Cast votes** (drop your initialed magic beans in suspect jars),
+  - **Listen and talk**—you’ll hear **rumors** (clues) throughout the night.
 
-## Questions?
-Ask any **host**.
+- **9:00 PM →** The murder is announced. From here on:
+
+  - You may **challenge guests or hosts** to quick card duels.
+  - Fights help you **earn more votes**, **gain rumors**, and **collect gold**.
+  - You can **shop and vote at any time** while you investigate.
+
+- **By 10:45 PM →** Voting deadline.
+- **11:00 PM →** We reveal the murderer and crown the winner.
+
+> **Why fight at all?** To stack the odds: **more votes** = better chance to win; **more rumors** = better aim for those votes; **more gold** = more potions or votes from the Store.
+
+---
+
+## The Loop (after 9 PM)
+
+**Talk → Vote → Duel → Shop → Repeat**
+
+- **Talk** to hosts/guests to hear rumors (see _Rumors_ page for truth rules).
+- **Vote** whenever you feel confident (don’t wait if you’re sure).
+- **Duel** to win **votes / rumors / gold** (see _Fights & Rewards_ for details).
+- **Shop** anytime for **potions** or **extra votes**.
+
+---
+
+## Winning
+
+Your aim is to put as many of **your own vote tokens** as possible on the **guilty host**.  
+At the reveal, the **guest with the most personal votes** on that host wins (tie → one duel).

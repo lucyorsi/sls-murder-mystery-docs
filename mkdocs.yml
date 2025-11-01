@@ -23,8 +23,9 @@ markdown_extensions:
       toc_depth: 2
 nav:
   - Welcome: index.md
-  - Timeline: timeline.md
   - How to Play: rules.md
+  - Timeline: timeline.md
+  - Rumors: rumors.md
   - Fights & Rewards: fights.md
   - Store & Potions: store.md
   - Voting & Winning: voting.md

@@ -1,8 +1,7 @@
-
 # FAQ
 
 **Do I have to play?**  
-No. This is a Halloween party first — you can just mingle.
+No. Feel free to ignore the game and just enjoy the party.
 
 **Who do I ask if I’m confused?**  
 Any **host**.

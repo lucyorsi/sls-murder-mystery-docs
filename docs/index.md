@@ -1,5 +1,7 @@
 # Welcome
 
+!!! tip "Access more details by clicking the **☰ menu** (top-left)!"
+
 ## 👋 Intro
 
 Tonight, you’ve slipped into a secret market hidden inside an impossible tower called **the Spire**.  
@@ -13,9 +15,10 @@ Later this evening, a **murder will occur** that shatters the peace and turns th
 
 ## 🏆 The Goal
 
-Your goal is to put as many of your own vote tokens as possible on the guilty host. At the reveal, the guest with the most of their tokens on that host wins a famed relic of the spire.
+Your goal is to put as many of **your own vote tokens** as possible on the **guilty host**.  
+At the reveal, the **guest with the most of their tokens** on that host wins a famed relic of the Spire.
 
-After the murder, short card duels let you **earn extra voting tokens and pick up rumors (clues)**. More votes and better information improve your odds of naming the culprit.
+After the murder, short card fights let you **earn extra voting tokens** and **pick up rumors (clues)**. More votes and better information improve your odds of naming the culprit.
 
 ## 🎃 Disclaimer
 
