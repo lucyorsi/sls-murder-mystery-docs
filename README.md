@@ -7,7 +7,7 @@ pip install mkdocs-material
 mkdocs serve
 ```
 
-Visit http://127.0.0.1:8000
+Visit http://localhost:8000/
 
 ## Deploy to GitHub Pages (auto)
 

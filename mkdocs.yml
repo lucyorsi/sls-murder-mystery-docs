@@ -1,8 +1,9 @@
+site_name: Slay The Spire - Murder Mystery
 
-site_name: The Seventh Bazaar
-site_url: https://example.com/
 theme:
   name: material
+  logo: images/SneckoEye.png
+  favicon: images/SneckoEye.png
   features:
     - navigation.instant
     - navigation.sections
@@ -13,8 +14,8 @@ theme:
     - content.code.copy
   palette:
     - scheme: slate
-      primary: deep purple
-      accent: purple
+      primary: yellow
+      accent: deep purple
 markdown_extensions:
   - admonition
   - toc:
