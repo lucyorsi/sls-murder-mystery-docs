@@ -1,7 +1,5 @@
 
-# The Seventh Bazaar — MkDocs Material
-
-Zero‑maintenance docs site for your party rules.
+# The Seventh Bazaar Docs
 
 ## Local preview
 ```bash
