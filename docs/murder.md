@@ -1,5 +1,7 @@
 # Murder
 
+!!! tip "RULE UPDATE: Guests start with 4 HP, Hosts start with 6 HP"
+
 The **Blue-Hooded Merchant** has been murdered.
 
 She was discovered by **Snake Plant** behind the stalls. There are **three puncture wounds** on her body, and the **three gem keys** she wore around her neck are **missing**.

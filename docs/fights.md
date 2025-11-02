@@ -4,8 +4,8 @@ Fights start only **after 9:00 PM**.
 
 ## Health
 
-- **Guests start fights at 6 HP.**
-- **Hosts start fights at 10 HP.**
+- **Guests start fights at 4 HP.**
+- **Hosts start fights at 6 HP.**
 - **Everyone heals back to full** immediately after each combat ends.
 
 ## Turn Loop
