@@ -8,7 +8,7 @@ Spend your **gold** (chocolate coins — **do not eat the gold**) by finding the
 - **Fire Potion** — **2 gold**
 - **Ghost in a Jar** — **8 gold**
 
-## Potions (one‑use; **hosts only**)
+## Potions (one‑use; **use against hosts only**)
 
 - **Blood Potion** — Heal **3**.
 - **Energy Potion** — **Draw 2** and **play +1** card this turn.
