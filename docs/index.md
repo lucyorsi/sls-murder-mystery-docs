@@ -1,6 +1,6 @@
 # Welcome
 
-!!! tip "Access more details by clicking the **☰ menu** (top-left)!"
+!!! tip "Access more details about the game mechanics by clicking the **☰ menu** (top-left)!"
 
 ## 👋 Intro
 
@@ -23,3 +23,5 @@ After the murder, short card fights let you **earn extra voting tokens** and **p
 ## 🎃 Disclaimer
 
 This is a Halloween party first, murder mystery second! The game is totally optional—mingle, hang out, and join the game only if you feel like it.
+
+!!! tip "Access more details about the game mechanics by clicking the **☰ menu** (top-left)!"
