@@ -1,0 +1,3 @@
+# Murder
+
+!!! tip "CHECK BACK HERE AT 9PM FOR DETAILS ON THE MURDER"
